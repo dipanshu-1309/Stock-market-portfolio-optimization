@@ -1,2 +1,0 @@
-# Stock market portfolio optimization
-
